@@ -3,7 +3,7 @@
 
 #### I'm a Software Developer.
 
-- 🏢 I'm currently working at **Dinamize**
+- 🏢 I'm currently working at [**Dinamize**](https://www.dinamize.com.br/)
 - ⚙️ I use daily in my job: `.go`, `.sh`
 - I have knowledge in: `.go`,`.java`, `.py`, `docker`, `.sql`, `AWS`, `k8s`
 - 🌍 I'm mostly active within the **Microservices Community**
