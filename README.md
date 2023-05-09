@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I'm a Software Developer.
+#### I'm a Software Engineer.
 
 - 🏢 I'm currently working at [**Dinamize**](https://www.dinamize.com.br/)
 - ⚙️ I use daily in my job: `.go`, `.sh`
